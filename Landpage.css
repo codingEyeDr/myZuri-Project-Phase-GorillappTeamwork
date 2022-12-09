@@ -99,6 +99,7 @@ header {
   /* Add a grey background color to dropdown links on hover */
   .dropdown-content-login a:hover {
     background-color: #ddd;
+    transition: all 0.3s ease;
   }
   
   /* Show the dropdown menu on hover */
@@ -250,7 +251,7 @@ header {
  }
 
  .ptag-details{
-    margin: 10px;
+    width: 80%;
 
     
  }
